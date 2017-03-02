@@ -53,7 +53,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'TDR Documentation'
+project = u'TDR Test Documentation'
 copyright = u'2017, Grid Support <helpdesk@surfsara.nl>'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -108,15 +108,22 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'sara'
 
+#Narges: To quickly build docs
+#html_theme = 'sara'
+html_theme = 'classic'
+html_theme_options = {
+    "rightsidebar": "true",
+    "relbarbgcolor": "black"
+}
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path=['../themes']
+#Commented out by Narges (to overcome the error in building docs)
+#html_theme_path=['../themes']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
