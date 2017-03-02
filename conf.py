@@ -37,9 +37,9 @@ extensions = []
 templates_path = ['_templates']
 
 # The suffix of source filenames.
-#source_suffix = '.rst'
+source_suffix = '.rst'
 
-#Added by Narges to use md
+#Narges: to use md
 source_parsers = {
     '.md': CommonMarkParser,
 }
