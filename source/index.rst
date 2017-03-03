@@ -21,13 +21,21 @@ Welcome to the documentation for using the TDR services at `SURFsara`_. The info
 
 
 =======
-User Guide
+Basic Usage
 =======
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    Pages/user-guide.md
+
+=======
+Advanced Usage
+=======
+
+.. toctree::
+   :maxdepth: 1
+   
    Pages/advanced-usage.md
 
 ======        
