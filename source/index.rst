@@ -12,9 +12,7 @@ TDR documentation
 
 Welcome to the documentation for using the TDR services at `SURFsara`_. The information in this tutorial will help you get started with the TDR, learn best practices and techniques publishing your data in our infrastructure and stay up-to-date with our system developments. We welcome your comments at helpdesk@surfsara.nl  to help us improve the documentation.
 
-.. sidebar:: Need help?
 
-	Do you need help with this tutorial? We are more than willing to assist! Just contact us at helpdesk@surfsara.nl.
 
 
 .. _userguide:
@@ -27,7 +25,7 @@ Basic Usage
 .. toctree::
    :maxdepth: 1
    
-   Pages/user-guide.md
+   Pages/basic-usag.md
 
 =======
 Advanced Usage
@@ -81,18 +79,13 @@ Best practices
 .. toctree::
    :maxdepth: 1
    
-   Pages/Practices/bootstrap
+   Pages/best-practices.md
 
 
-  
+.. sidebar:: Need help?
 
-==================
-Indices and tables
-==================
+	Do you need help with this tutorial? We are more than willing to assist! Just contact us at helpdesk@surfsara.nl.
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 .. Links:
 
