@@ -1,4 +1,6 @@
-# Basic Usage## Obtaining AccessTo get access to the repository service you need to login as a registered user. To obtain user credentials you should first send a regitration request via the Login page.
+
+# Basic Usage
+## Obtaining AccessTo get access to the repository service you need to login as a registered user. To obtain user credentials you should first send a regitration request via the Login page.
 
 
 ![Alt Image Text](Screenshots/login.png) 
