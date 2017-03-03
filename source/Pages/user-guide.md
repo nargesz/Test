@@ -1,7 +1,8 @@
 
 #Data Repository User Guide 
+
 Data Repository Service is a trusted digital repository that ensures long-term data preservation. The Data Repository provides an online data publication service to disclose, share and publish research data. This document is the user guide for depositing data and describes the online deposite workflow on the Data Repository.  
-##Basic Usage###Obtaining AccessTo get access to the repository service you need to login as a registered user. To obtain user credentials you should first send a regitration request via the Login page.
+##Basic Usage###Obtaining AccessTo get access to the repository service you need to login as a registered user. To obtain user credentials you should first send a regitration request via the Login page.
 
 
 ![Alt Image Text](Screenshots/login.png) 
@@ -35,7 +36,7 @@ To prepare data for a deposit you need to consider the following points:
  - **Data anonymization**
 Before you upload the files you should check whether they contain privacy-sensitive information within the meaning of the [Dutch Personal Data Protection Act] (http://www.coe.int/t/dghl/standardsetting/dataprotection/national%20laws/NL_DP_LAW.pdf). 
 If you give access to the data, they must be completely anonimyzed. 
-###Depositing data To deposite data, you should login as a registered user. In the main page click on "Deposit now". Depositing data in Repository service is a 6 step process. 
+###Depositing data To deposite data, you should login as a registered user. In the main page click on "Deposit now". Depositing data in Repository service is a 6 step process. 
 
 *  **Step 1: Select and upload files to deposit**
 	
