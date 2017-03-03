@@ -25,9 +25,10 @@ User Guide
 =======
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    
    Pages/user-guide.md
+   Pages/advanced-usage.md
 
 ======        
 FAQ
