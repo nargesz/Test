@@ -1,8 +1,4 @@
-
-# Data Repository User Guide 
-
-Data Repository Service is a trusted digital repository that ensures long-term data preservation. The Data Repository provides an online data publication service to disclose, share and publish research data. This document is the user guide for depositing data and describes the online deposite workflow on the Data Repository.  
-# Basic Usage## Obtaining AccessTo get access to the repository service you need to login as a registered user. To obtain user credentials you should first send a regitration request via the Login page.
+# Basic Usage## Obtaining AccessTo get access to the repository service you need to login as a registered user. To obtain user credentials you should first send a regitration request via the Login page.
 
 
 ![Alt Image Text](Screenshots/login.png) 
