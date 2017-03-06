@@ -33,7 +33,8 @@ Basic Usage
 .. toctree::
    :maxdepth: 1
    
-   Pages/basic-usag.md
+   Pages/basic-usage.md
+
 
 =======
 Advanced Usage
