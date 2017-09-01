@@ -1,19 +1,19 @@
 .. _about-grid:
 
 **************
-About the Grid
+About the Data Repository
 **************
 
-In this page you will find general information about the Grid, how it works and what is suited for:
+In this page you will find general information about the Data Repository, how it works and what data it is suited for:
 
 .. contents:: 
     :depth: 4
 
 
-.. _intro-grid:
+.. _intro-datarepo:
 
 ====================
-Introduction to Grid
+Introduction to Data Repository
 ====================
 
 The Grid is a loosely coupled collection of heterogeneous resources with a large variety in purpose and reliability. The Grid consists of multiple geographically distributed compute clusters interconnected with fast network. Grid computing is different from conventional high performance computing such as cluster computing in that Grid systems typically have each processor core perform an independent task.  
